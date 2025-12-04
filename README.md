@@ -422,7 +422,7 @@ Requirements file
 
 Trained model (LoRA adapter)
 
-Demo video link
+Demo video link - https://drive.google.com/file/d/1YTJMniyQm2h0_1PwNaf_D9vDyDHfIfG_/view?usp=drive_link
 
 12. Final Notes
 
@@ -438,3 +438,4 @@ Multi-dataset medical QA training
 
 
 Professional-grade UI design
+
