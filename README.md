@@ -1,5 +1,10 @@
 📘 MediChat AI – Multilingual Medical Support Chatbot
 A LoRA-Fine-Tuned FLAN-T5 Medical Question Answering System with Multilingual Translation Capabilities
+
+[![HuggingFace Spaces](https://img.shields.io/badge/🤖_Try_on_HuggingFace_Spaces-blue?style=for-the-badge)](https://huggingface.co/spaces/wilsonl/multilingual_medical_chatbot)
+
+
+
 1. Introduction
 
 Access to trustworthy medical information is a global challenge, particularly in multilingual communities where health content is often available only in English. Millions of users search for medical help in regional languages, creating a gap between healthcare knowledge and linguistic accessibility.
@@ -430,5 +435,6 @@ Domain-specific LLM reasoning
 Efficient LoRA fine-tuning
 
 Multi-dataset medical QA training
+
 
 Professional-grade UI design
