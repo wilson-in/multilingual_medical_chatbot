@@ -1,0 +1,9 @@
+streamlit
+transformers>=4.30
+torch
+langdetect
+langid
+datasets
+huggingface-hub
+sentencepiece
+accelerate
